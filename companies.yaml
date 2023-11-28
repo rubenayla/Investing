@@ -1,0 +1,277 @@
+ba:
+  cap: 132671463424
+  did_not_update: operatingIncome
+  earnings: -5053000000.0
+  equity: -15883000000.0
+  equity_per_share: -26.337690938350615
+  fcf: 6686000128
+  gross: 5768000000
+  last_updated: 2023.11.28 00:05
+  margin_earnings: -0.0374
+  margin_gross: 0.114429995
+  margin_operating: -0.014529999
+  name: The Boeing Company
+  price_to_gross: 23.001293936199723
+  revenueGrowth: 0.135
+  revenue_growth: 0.135
+  shares: 603052106.4727273
+  stock_price: 220.0
+  ticker: BA
+  total_debt: 57001000000.0
+  valoration:
+    gain_factor: -43475815003006.87
+    target_stock_price: -9564679300661510.0
+    value: -5.768000000000016e+24
+    warnings: 'cap/gross > 10, = 23.00
+
+      equity < 0, = -15883.00 million
+
+      '
+dis:
+  cap: 169497755648
+  did_not_update: operatingIncome
+  earnings: 2354000000.0
+  equity: 99277000000.0
+  equity_per_share: 56.26356870355721
+  fcf: 5724375040
+  gross: 28321000000
+  last_updated: 2023.11.28 00:05
+  margin_earnings: 0.02648
+  margin_gross: 0.33405998
+  margin_operating: 0.101969995
+  name: The Walt Disney Company
+  price_to_earnings_1yr: 73.77519
+  price_to_gross: 5.984878911337876
+  revenueGrowth: 0.054
+  revenue_growth: 0.054
+  shares: 1764498809.5773475
+  stock_price: 96.06
+  ticker: DIS
+  total_debt: 46431000000.0
+  valoration:
+    gain_factor: 2.089502593388345
+    target_stock_price: 200.71761912088442
+    value: 354166000000.0
+    value_to_gross: 9
+    warnings: ''
+dva:
+  cap: 9079077888
+  did_not_update: operatingIncome
+  earnings: 560400000.0
+  equity: 712326000.0
+  equity_per_share: 7.787737877373303
+  fcf: 1049078848
+  gross: 3400341000
+  last_updated: 2023.11.28 00:05
+  margin_earnings: 0.05113
+  margin_gross: 0.3057
+  margin_operating: 0.15817
+  name: DaVita Inc.
+  price_to_earnings_1yr: 15.433229
+  price_to_gross: 2.6700492356501893
+  revenueGrowth: 0.059
+  revenue_growth: 0.059
+  shares: 91467639.41164617
+  stock_price: 99.26
+  ticker: DVA
+  total_debt: 11822490000.0
+  valoration:
+    gain_factor: 3.4491823273583972
+    target_stock_price: 342.3658378135945
+    value: 31315395000.0
+    value_to_gross: 9
+    warnings: ''
+googl:
+  cap: 1716051509248
+  did_not_update: operatingIncome
+  earnings: 59972000000.0
+  equity: 256144000000.0
+  equity_per_share: 20.402839408557693
+  fcf: 71757127680
+  gross: 156633000000
+  last_updated: 2023.11.28 00:05
+  margin_earnings: 0.22459
+  margin_gross: 0.56122
+  margin_operating: 0.27962
+  name: Alphabet Inc.
+  price_to_earnings_1yr: 26.132185
+  price_to_gross: 10.955874619320323
+  revenueGrowth: 0.11
+  revenue_growth: 0.11
+  shares: 12554331035.540274
+  stock_price: 136.69
+  ticker: GOOGL
+  total_debt: 27202000000.0
+  valoration:
+    cap/gross < 10: false
+    gain_factor: 0.9707406747539863
+    target_stock_price: 132.6905428321224
+    value: 1665841000000.0
+    value_to_gross: 9
+    warnings: 'cap/gross > 10, = 10.96
+
+      '
+logi:
+  cap: 13301470208
+  did_not_update: operatingIncome
+  earnings: 364575000.0
+  equity: 2257560000.0
+  equity_per_share: 14.370411857558175
+  fcf: 730675264
+  gross: 1700000000.0
+  last_updated: 2023.11.28 00:05
+  margin_earnings: 0.08952
+  margin_gross: 0.38676
+  margin_operating: 0.14724
+  name: Logitech International S.A.
+  price_to_earnings_1yr: 35.79747
+  price_to_gross: 7.82439424
+  revenueGrowth: -0.08
+  revenue_growth: -0.08
+  shares: 157097793.88213062
+  stock_price: 84.67
+  ticker: LOGI
+  total_debt: 71016000.0
+  valoration:
+    gain_factor: 1.3199713810162301
+    target_stock_price: 111.7619768306442
+    value: 17557560000.0
+    value_to_gross: 9
+    warnings: ''
+meta:
+  cap: 860132212736
+  did_not_update: operatingIncome
+  earnings: 23200000000.0
+  equity: 125713000000.0
+  equity_per_share: 49.43415368056983
+  fcf: 29440124928
+  gross: 92855000000
+  last_updated: 2023.11.28 00:05
+  margin_earnings: 0.23421
+  margin_gross: 0.80114996
+  margin_operating: 0.41375
+  name: Meta Platforms, Inc.
+  price_to_earnings_1yr: 29.541042
+  price_to_gross: 9.263176056604383
+  revenueGrowth: 0.232
+  revenue_growth: 0.232
+  shares: 2543039389.575141
+  stock_price: 338.23
+  ticker: META
+  total_debt: 26591000000.0
+  valoration:
+    gain_factor: 1.1177444418013962
+    target_stock_price: 378.05470255048624
+    value: 961408000000.0
+    value_to_gross: 9
+    warnings: ''
+mmm:
+  cap: 53613408256
+  did_not_update: operatingIncome
+  earnings: 5777000000.0
+  equity: 14770000000.0
+  equity_per_share: 26.433340951447533
+  fcf: 8399124992
+  gross: 15000000000
+  last_updated: 2023.11.28 00:05
+  margin_earnings: -0.22594
+  margin_gross: 0.44074002
+  margin_operating: 0.19285
+  name: 3M Company
+  price_to_gross: 3.5742272170666665
+  revenueGrowth: -0.036
+  revenue_growth: -0.036
+  shares: 558764025.5966649
+  stock_price: 95.95
+  ticker: MMM
+  total_debt: 16200000000.0
+  valoration:
+    gain_factor: 2.2339560922541475
+    target_stock_price: 214.34808705178546
+    value: 119770000000.0
+    value_to_gross: 7
+    warnings: ''
+sqm:
+  cap: 14201922560
+  did_not_update: operatingIncome
+  earnings: 3906311000.0
+  equity: 4896632000.0
+  equity_per_share: 17.53239648702887
+  fcf: 113691872
+  gross: 5736625000
+  last_updated: 2023.11.28 00:05
+  margin_earnings: 0.31870002
+  margin_gross: 0.46463
+  margin_operating: 0.38746
+  name: "Sociedad Qu\xEDmica y Minera de Chile S.A."
+  price_to_earnings_1yr: 4.799228
+  price_to_gross: 2.4756581718344846
+  revenueGrowth: -0.378
+  revenue_growth: -0.378
+  shares: 279290512.4877089
+  stock_price: 50.85
+  ticker: SQM
+  total_debt: 2910679000.0
+  valoration:
+    gain_factor: 1.9605185060240182
+    target_stock_price: 99.69236603132133
+    value: 27843132000.0
+    value_to_gross: 4
+    warnings: ''
+syk:
+  cap: 111673933824
+  did_not_update: operatingIncome
+  earnings: 2358000000.0
+  equity: 16616000000.0
+  equity_per_share: 43.69078864625274
+  fcf: 2156624896
+  gross: 11646000000
+  last_updated: 2023.11.28 00:05
+  margin_earnings: 0.13
+  margin_gross: 0.63606
+  margin_operating: 0.19719
+  name: Stryker Corporation
+  price_to_earnings_1yr: 43.54963
+  price_to_gross: 9.589037766099949
+  revenueGrowth: 0.096
+  revenue_growth: 0.096
+  shares: 380308996.8124234
+  stock_price: 293.64
+  ticker: SYK
+  total_debt: 11857000000.0
+  valoration:
+    gain_factor: 0.5659333188674472
+    target_stock_price: 166.1806597522372
+    value: 63200000000.0
+    value_to_gross: 4
+    warnings: ''
+tsla:
+  cap: 750479409152
+  did_not_update: operatingIncome
+  earnings: 12583000000.0
+  equity: 44704000000.0
+  equity_per_share: 14.02511071142284
+  fcf: 1612000000
+  gross: 20853000000
+  last_updated: 2023.11.28 00:05
+  margin_earnings: 0.11213
+  margin_gross: 0.19805999
+  margin_operating: 0.07555
+  name: Tesla, Inc.
+  price_to_earnings_1yr: 75.90997
+  price_to_gross: 35.98903798743586
+  revenueGrowth: 0.088
+  revenue_growth: 0.088
+  shares: 3187425819.29072
+  stock_price: 235.45
+  ticker: TSLA
+  total_debt: 3099000000.0
+  valoration:
+    cap/gross < 10: false
+    gain_factor: 0.47636083767302023
+    target_stock_price: 112.1591592301126
+    value: 357499000000.0
+    value_to_gross: 15
+    warnings: 'cap/gross > 10, = 35.99
+
+      '
